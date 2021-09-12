@@ -1,3 +1,5 @@
 *.o
 progressbar
 .vscode/**
+node_modules/**
+package-lock.json
